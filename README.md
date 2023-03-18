@@ -37,7 +37,7 @@ O desafio foi proposto no curso Explorer da Rocketseat. A ideia é aplicará o q
 - Funções *callback*
 - Arrays.
 
-<strong> [Visite o projeto online](https://guiogigo.github.io/Rocketseat-Desafio01/) </strong>
+<strong> [Visite o projeto online](https://guiogigo.github.io/Rocketseat-Desafio-BiscoitoDaSorte/) </strong>
 
 -----
 <p align="center">Feito por: <strong>Guilherme Batista</strong></p>
